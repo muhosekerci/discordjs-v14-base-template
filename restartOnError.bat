@@ -1,6 +1,6 @@
 @echo off
 :loop
 node index.js
-echo Bir hata olustu, yeniden baslatiliyor...
+echo An error occurred, restarting...
 timeout /t 5
 goto loop
