@@ -37,10 +37,10 @@ Do not change the names of the following folders or files:
    pkg install git nodejs
    ```
     ```
-   git clone [REPO_URL]
+   git clone https://github.com/muhosekerci/discordjs-v14-base-template
    ```
     ```
-   cd [YOUR_FOLDER_NAME]
+   cd discordjs-v14-base-template
    ```
     ```
    npm install
@@ -64,10 +64,10 @@ Do not change the names of the following folders or files:
 2. **Project Setup**:
    - Open terminal and enter the following commands in order:
      ```
-     git clone [REPO_URL]
+     git clone https://github.com/muhosekerci/discordjs-v14-base-template
      ```
      ```
-     cd [YOUR_FOLDER_NAME]
+     cd discordjs-v14-base-template
      ```
      ```
      npm install
